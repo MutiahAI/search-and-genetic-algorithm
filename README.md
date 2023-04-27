@@ -14,10 +14,10 @@ tubedata.csv: contains the data for the London Tube map.
 
 #### List of dependencies:
 
-Python 3.7 or higher
-NumPy: for efficient numerical operations
-Pandas: for reading and manipulating CSV files
-Matplotlib: for visualizing the search results and statistics.
+- Python 3.7 or higher
+- NumPy: for efficient numerical operations
+- Pandas: for reading and manipulating CSV files
+- Matplotlib: for visualizing the search results and statistics.
 
 
 
